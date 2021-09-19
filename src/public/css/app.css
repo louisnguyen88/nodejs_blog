@@ -1,0 +1,25 @@
+.text1 {
+  font-size: 5rem;
+  color: red;
+  height: 20px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.text2 {
+  font-size: 5rem;
+  color: blue;
+  height: 20px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.text3 {
+  font-size: 5rem;
+  color: #000;
+  height: 20px;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+/*# sourceMappingURL=app.css.map */
